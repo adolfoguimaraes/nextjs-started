@@ -4,7 +4,6 @@ import styles from './layout.module.css'
 
 import NavBar from './navbar/navBar'
 
-const name = 'Adolfo Guimarães'
 export const siteTitle = 'Site Title'
 
 export default function Layout({ children, home }) {
