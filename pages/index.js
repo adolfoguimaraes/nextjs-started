@@ -17,7 +17,7 @@ export default function Home() {
       </Head>
       <section>
         <Container className={styles.container_center}>
-          Teste
+          First Project Page
         </Container>
       </section>
       
