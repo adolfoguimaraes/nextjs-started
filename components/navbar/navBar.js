@@ -14,7 +14,7 @@ export default function NavBar({siteTitle}) {
                 <Navbar.Toggle aria-controls="responsive-navbar-nav" />
                 <Navbar.Collapse id="responsive-navbar-nav">
                     <Nav className="me-auto">
-                    <Nav.Link href="/about/">About the project</Nav.Link>
+                    <Nav.Link href="/page/">Page</Nav.Link>
                     </Nav>
                     <Nav>
                     <Navbar.Brand className={styles.created_text}>created by @author</Navbar.Brand>
