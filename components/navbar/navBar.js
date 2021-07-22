@@ -17,10 +17,10 @@ export default function NavBar({siteTitle}) {
                     <Nav.Link href="/about/">About the project</Nav.Link>
                     </Nav>
                     <Nav>
-                    <Navbar.Brand className={styles.created_text}>created by @adolfoguimaraes</Navbar.Brand>
-                    <Nav.Link href="https://instagram.com/profadolfoguimaraes"><FaInstagram /></Nav.Link>
-                    <Nav.Link href="https://github.com/adolfoguimaraes"><FaGithub /></Nav.Link>
-                    <Nav.Link href="https://twitter.com/adolfoguimaraes"><FaTwitter /></Nav.Link>
+                    <Navbar.Brand className={styles.created_text}>created by @author</Navbar.Brand>
+                    <Nav.Link href=""><FaInstagram /></Nav.Link>
+                    <Nav.Link href=""><FaGithub /></Nav.Link>
+                    <Nav.Link href=""><FaTwitter /></Nav.Link>
                     </Nav>
                 </Navbar.Collapse>
                 </Container>
